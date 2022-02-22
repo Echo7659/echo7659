@@ -1,3 +1,2 @@
-![](http://antzuhl.cn:4000/get/@loserk.readme)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loserk)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=loserk&color=green)
