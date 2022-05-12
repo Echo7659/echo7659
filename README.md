@@ -5,9 +5,9 @@
 
 ## :green_heart: 𝗦𝘁𝗮𝘁𝘀
 
-![github stats](https://github-readme-stats.vercel.app/api?username=loserk&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=Echo7659&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loserk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo7659&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
