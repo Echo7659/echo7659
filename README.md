@@ -1,5 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loserk)](https://github.com/anuraghazra/github-readme-stats)
+## :globe_with_meridians: 找到我
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loserk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 个人网站：https://echol.cn 、 https://www.echol.cn
+- gitee：https://gitee.com/loser7659
+
+## :green_heart: 𝗦𝘁𝗮𝘁𝘀
+
+![github stats](https://github-readme-stats.vercel.app/api?username=loserk&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loserk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
