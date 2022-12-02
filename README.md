@@ -12,7 +12,7 @@
 <!-- 个人计划 -->
 <div align="left">
   <!-- 欢迎语 -->
-  <h2 align="center"> Hi, I'm Cui Yang, My Flower name is YuGao. 
+  <h2 align="center"> Hi, I'm Lee, My Flower name is Echo. 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   </h2>
 </div>
