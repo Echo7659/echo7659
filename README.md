@@ -2,6 +2,7 @@
 
 - 个人网站：https://echol.cn 、 https://www.echol.cn
 - gitee：https://gitee.com/loser7659
+- 私有仓库:https://git.echol.cn/
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/cy920820/cy920820/assets/hello.svg" height="175px" />
